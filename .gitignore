@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+
+# Model weights
+*.pt
+*.pth
+
+# Downloaded datasets / generated data
+datasets/
+data/coco128/
+data/*.zip
+
+# Gallery / generated files
+data/gallery/
+
+# Ultralytics generated files
+runs/
