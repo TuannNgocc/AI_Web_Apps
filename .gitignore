@@ -27,3 +27,5 @@ data/gallery/
 
 # Ultralytics generated files
 runs/
+web/node_modules/
+web/dist/
